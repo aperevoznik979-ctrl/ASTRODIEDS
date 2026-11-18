@@ -7,7 +7,7 @@
   <meta name="description" content="Экскурсионное бюро ASTRODIED: прогулки по панорамным крышам, разводные мосты с катера, мистические дворы и астрономические туры.">
   
   <!-- OpenGraph для красивого превью в соцсетях и мессенджерах -->
-  <meta property="og:title" content="ASTRODIEDS — Магия ночного Петербурга под звёздами">
+  <meta property="og:title" content="ASTRODIEDS — Магия ночных городов под звёздами">
   <meta property="og:description" content="Крыши, разводные мосты, мистические дворы и телескопы. Малые группы до 10 человек, горячий чай и пледы.">
   <meta property="og:type" content="website">
   <meta property="og:locale" content="ru_RU">
@@ -23,10 +23,10 @@
     "@context": "https://schema.org",
     "@type": "TravelAgency",
     "name": "ASTRODIEDS",
-    "description": "Экскурсионное бюро по Санкт-Петербургу: ночные прогулки по крышам, разводные мосты и мистические маршруты под звёздным небом.",
+    "description": "Экскурсионное бюро: ночные прогулки по крышам, разводные мосты и мистические маршруты под звёздным небом.",
     "address": {
       "@type": "PostalAddress",
-      "addressLocality": "Санкт-Петербург",
+      "addressLocality": "-",
       "streetAddress": "Невский проспект, д. 28, офис 402"
     },
     "telephone": "+7-812-555-02-26",
